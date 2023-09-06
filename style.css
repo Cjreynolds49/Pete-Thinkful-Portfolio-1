@@ -54,9 +54,13 @@ hr {
   border-radius: 50%;
   
 }
+ol{
+  text-align: center; list-style: inside;
+}
 ul{
   text-align: center; list-style: inside;
 }
-ol{
-  text-align: center; list-style: inside;
+
+a.inlined{
+  display: inline;
 }
