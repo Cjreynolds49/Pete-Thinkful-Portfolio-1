@@ -60,7 +60,7 @@ ol{
 ul{
   text-align: center; list-style: inside;
 }
-
-a.inlined{
-  display: inline;
+nav{
+  text-align: center;
 }
+
