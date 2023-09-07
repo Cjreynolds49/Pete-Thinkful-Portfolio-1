@@ -51,8 +51,7 @@ hr {
 /* Add your solution below */
 
 .image-circle{
-  border-radius: 50%;
-  
+  border-radius: 50%; max-width: 125px; max-height: 125px;
 }
 ol{
   text-align: center; list-style: inside;
@@ -60,7 +59,9 @@ ol{
 }
 ul{
   text-align: center; list-style: inside;
+  font-size: 14px;
 }
+
 nav{
   text-align: center;
 }
